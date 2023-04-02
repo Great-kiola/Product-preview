@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Url](https://github.com/Great-kiola/Product-preview)
-- Live Site URL: [Deployed Url](https://your-live-site-url.com)
+- Live Site URL: [Deployed Url](https://spontaneous-alfajores-c3f550.netlify.app/)
 
 ## My process
 
