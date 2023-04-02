@@ -14,18 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/117322790/229354588-6c3418e1-b647-47dc-a5d3-2f1700c0a803.png">
 
 ### Links
 
-- Solution URL: [Live Url](https://your-solution-url.com)
+- Solution URL: [Github Url](https://github.com/Great-kiola/Product-preview)
 - Live Site URL: [Deployed Url](https://your-live-site-url.com)
 
 ## My process
@@ -38,18 +31,16 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS Grid
 
 ### What I learned
-
-
+I learnt how to use the position attribute in css.
 
 ### Continued development
-
+Add Javascript for improved functionality
 
 ### Useful resources
-
-
+Css Tricks, Mdn Docs
 
 ## Author
 - Frontend Mentor - [@great-kiola](https://www.frontendmentor.io/profile/Great-kiola)
 
 ## Acknowledgments
-
+Css Tricks, Mdn Docs
